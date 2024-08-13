@@ -1,6 +1,3 @@
-# Drone-Landing-Site-Prediction
-Drone Landing Site Prediction Using Computer Vision
-
 # Drone Landing Site Prediction Using Computer Vision
 
 This project is focused on developing a system that predicts optimal landing sites for drones using advanced computer vision techniques. The system leverages a combination of object detection, semantic segmentation, and optical flow analysis to generate an aggregated score heatmap. This heatmap is used to identify safe and viable landing zones for the drone.
